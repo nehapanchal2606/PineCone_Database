@@ -326,6 +326,12 @@ Pinecone returns the most similar vectors.
 
 ### **4. Delete**
 
+
+Here is the clear Diagram of PineCone:
+
+![image]![pinecone_diagram](https://github.com/user-attachments/assets/3bdb7c09-963a-438e-8092-34fff2bed67d)
+
+
 Remove vectors by:
 
 * ID
